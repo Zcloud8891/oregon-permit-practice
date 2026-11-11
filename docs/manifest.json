@@ -1,0 +1,23 @@
+{
+ "manual": {
+  "title": "Oregon Driver Manual 2026-2027",
+  "form": "Form 735-37 (1-26)",
+  "pdf": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+  "pdf_created": "2025-12-17",
+  "server_last_modified": "2026-06-25"
+ },
+ "languages": [
+  "en",
+  "es",
+  "ru",
+  "vi"
+ ],
+ "coming": [
+  "ar",
+  "zh",
+  "ja",
+  "ko"
+ ],
+ "free_per_language": 15,
+ "checkout_live": false
+}
